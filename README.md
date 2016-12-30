@@ -1,6 +1,9 @@
 # PySpark-IrisFlowerClassification
 A binary classification model based on Logistic Regression algorithm to predict the type of an Iris flower.
 
+Spark Distribution:
+Databricks Community Edition
+
 Data:
 Visit http://archive.ics.uci.edu/ml/datasets/Iris and download the dataset. To build the model, considered only 2 class attributes, i.e., we removed the records with class attribute "Iris-Setosa". Then the class attributes were dummy coded to 0s and 1s.
 
